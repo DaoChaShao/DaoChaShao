@@ -35,5 +35,6 @@
 ![Static Badge](https://img.shields.io/badge/sqlite-black?style=for-the-badge&logo=sqlite&logoColor=white&color=%23003B57)
 ![Static Badge](https://img.shields.io/badge/swift-black?style=for-the-badge&logo=swift&logoColor=white&color=%23F05138)
 ![Static Badge](https://img.shields.io/badge/langgraph-black?style=for-the-badge&logo=langgraph&color=%231C3C3C)
+![Static Badge](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django&color=%23092E20)
 
 <!-- Youtube Videos from https://github.com/DenverCoder1/github-readme-youtube-cards -->
