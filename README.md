@@ -1,11 +1,12 @@
 <!-- Basic individual information and brief introduction -->
-### Hi there 👋, This person is pretending to be a coder.
+### Hi there, welcome to enter my repository grid.
 
-- 💬 A second-hand Code Engineer is sharing his learning journey in tech.
+- 👋 I hope I am real in the Matrix of the web.
+- 🌱 I am passionate about writing ~bugs~ codes! I am  a ~bug~ code warrior.
+- 💬 I am a second-hand Code Engineer sharing his learning journey in tech. Hope it is useful!
 
 <!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
@@ -13,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### GitHub stats
+### GitHub Stats
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoChaShao&show_icons=true&theme=Synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
