@@ -13,6 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
+### GitHub stats
 <!-- GitHub Stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaoChaShao&show_icons=true&theme=Synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
