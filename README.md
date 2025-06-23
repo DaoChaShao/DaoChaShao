@@ -4,7 +4,7 @@
 - 👋 I hope I am real in the Matrix of the web.
 - 🌱 I am passionate about writing ~bugs~ codes! I am  a ~bug~ code warrior.
 - 💬 I am a second-hand Code Engineer sharing my learning journey in tech. Hope it is useful!
-- 💻 I am passionate about building educational tools, LLM-integrated apps, and real-time data analysis systems.
+- 💻 I am skilled in building educational tools, LLM-integrated apps, and real-time data analysis systems.
 - 😄 Here are a lot of tech demos for you to enjoy and have fun!
 
 ### 💡 What I Do
