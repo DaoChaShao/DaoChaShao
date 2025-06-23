@@ -1,16 +1,26 @@
 <!-- Basic individual information and brief introduction -->
-### Hi there, welcome to enter my repository grid.
+### Hi there, welcome to my repository grid.
 
 - 👋 I hope I am real in the Matrix of the web.
 - 🌱 I am passionate about writing ~bugs~ codes! I am  a ~bug~ code warrior.
-- 💬 I am a second-hand Code Engineer sharing his learning journey in tech. Hope it is useful!
+- 💬 I am a second-hand Code Engineer sharing my learning journey in tech. Hope it is useful!
+- 💻 I am passionate about building educational tools, LLM-integrated apps, and real-time data analysis systems.
+- 😄 Here are a lot of tech demos for you to enjoy and have fun!
+
+### 💡 What I Do
+
+- 🧠 Build **AI-enabled apps** with Python & Streamlit  
+- 📊 Analyse data with **Pandas**, **Plotly**, **SnowNLP**, and **scikit-learn**  
+- 📚 Develop **interactive knowledge graphs** and **student evaluation tools**  
+- 🤖 Integrate with **OpenAI**, **DeepSeek**, and **Ollama LLM APIs**  
+- 🧱 Structure projects with **modular backend**, **prompt engineering**, and clean UI logic
 
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 
